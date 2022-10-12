@@ -1,5 +1,4 @@
 # virtual_windows_Ass_AI
-"""AI mini project virtual windows assistant"""
 import pyttsx3
 import speech_recognition as sr
 import webbrowser
